@@ -9,7 +9,7 @@ setup(
     author_email='lyddonb@gmail.com',
     maintainer='Beau Lyddon',
     maintainer_email='lyddonb@gmail.com',
-    descrption='nose plugin for bootstrapping the GAE SDK and GAE Testbed',
+    description='nose plugin for bootstrapping the GAE SDK and GAE Testbed',
     url='https://github.com/beaulyddon-wf/nose-gunit',
     license='Apache License 2.0',
     classifiers=[
